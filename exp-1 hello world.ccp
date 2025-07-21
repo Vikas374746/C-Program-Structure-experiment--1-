@@ -7,7 +7,7 @@
 usingnamespacestd;
 
 intmain() {
-    // if namespace not used, std:: has to be added before cout
+    
     cout<<"Hello World"<<endl;
     cout<<"First Program";
     
