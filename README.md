@@ -38,10 +38,6 @@ Start → Display Message → End
 The Hello World program compiled and ran successfully.
 This experiment helped understand the fundamental structure and syntax of a C++ program.
 
----
-
-Let me know if you also want both experiments merged into one document or need a third experiment.
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Experiment 2: Simple Calculator Program
 
@@ -89,8 +85,5 @@ The calculator program executed successfully for all four basic operations.
 This experiment helped in understanding arithmetic computation, conditional logic, and user interaction in C++.
 ---
 
-Let me know if you would like the C++ code for this experiment, or if you need a PDF version for printing!
-Key features:
-*
 
 
