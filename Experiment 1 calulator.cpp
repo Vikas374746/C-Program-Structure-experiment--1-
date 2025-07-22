@@ -35,3 +35,10 @@ int main() {
     return 0;
 }
 
+/*
+Enter first number: 12
+Enter second number: 43
+Enter operator (+, -, *, /): *
+Result = 516
+*/
+    
